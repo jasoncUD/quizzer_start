@@ -15,8 +15,8 @@
 
 .App-header {
     width: 100%;
-    background-color: #282c34;
-    color: white;
+    background-color: #15abe2;
+    color: rgb(223, 209, 168);
     min-height: 10vh;
     display: flex;
     flex-direction: row;
@@ -27,7 +27,7 @@
 }
 
 .App-link {
-    color: #61dafb;
+    color: #61fb7d;
 }
 
 li {
