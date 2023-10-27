@@ -93,7 +93,7 @@ FAIL src/App.test.tsx
           [36m<header[39m
             [33mclass[39m=[32m"App-header"[39m
           [36m>[39m
-            [0mJason Chan's Quizzer![0m
+            [0mJason Chan's Quizzer!![0m
             [36m<button[39m
               [33mclass[39m=[32m"btn btn-primary"[39m
               [33mtype[39m=[32m"button"[39m
@@ -331,5 +331,5 @@ All files          |   82.06 |    81.03 |   76.71 |   81.29 |
 Test Suites: 2 failed, 2 total
 Tests:       5 failed, 10 passed, 15 total
 Snapshots:   0 total
-Time:        6.399 s
+Time:        6.125 s
 Ran all test suites.
