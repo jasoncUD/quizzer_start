@@ -105,7 +105,7 @@ export const QuizExpanded = ({
             <hr />
             <div className="footer">
                 <Button variant="danger" onClick={reset}>
-                    Reset
+                    Reset 
                 </Button>
                 <span className="score_report">
                     {p}/{totalPoints}
