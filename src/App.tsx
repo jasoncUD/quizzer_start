@@ -10,7 +10,7 @@ function App(): JSX.Element {
     return (
         <div className="App">
             <header className="App-header">
-                Jason Chan's Quizzer!
+                Jason Chan's Quizzer!!
                 <Button
                     onClick={() => {
                         setQuizzer(!quizzer);
